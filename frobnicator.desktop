@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=0.1
+Name=Frobnicator
+Comment=A stupid little fiddly application
+Path=/usr/share/frobnicator
+Exec=frobnicator
+Icon=frobnicator
+Terminal=false
+Categories=Games;Utility
