@@ -1,0 +1,3 @@
+include frobnicator.ui
+include frobnicator.png
+include frobnicator.desktop
